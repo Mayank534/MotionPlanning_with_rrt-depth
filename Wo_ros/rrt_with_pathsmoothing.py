@@ -13,7 +13,7 @@ import sys
 import pathlib
 sys.path.append(str(pathlib.Path(__file__).parent))
 
-from rrt import RRT
+from realsense_test.rrt import RRT
 
 show_animation = True
 
